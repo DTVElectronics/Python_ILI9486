@@ -22,7 +22,7 @@ from enum import Enum
 import time
 import numpy as np
 from PIL import Image, ImageDraw
-import R64.GPIO as GPIO
+import ROCK.GPIO as GPIO
 from spidev import SpiDev
 
 # constants
