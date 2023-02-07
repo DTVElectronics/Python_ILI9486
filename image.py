@@ -1,5 +1,5 @@
 from PIL import Image
-import RPi.GPIO as GPIO
+import R64.GPIO as GPIO
 from spidev import SpiDev
 import time
 import ILI9486 as LCD
